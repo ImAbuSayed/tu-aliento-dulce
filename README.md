@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu aliento dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-dulce/) |
+| **Get License** | [Official Music Licensing for Tu aliento dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu aliento dulce en mi piel se queda
+> Como un perfume que el viento no quita
+> Bailamos lento, la noche está quieta
+> Y tu mirada me tiene en la cima
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
