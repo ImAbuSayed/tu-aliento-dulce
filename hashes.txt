@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento dulce
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento dulce** (tu-aliento-dulce).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T07:06:31.082382 | `v1` | `10d1b8678693cbab998cb7ef41f8e22feacf02610f8ced12e7afbbeff17f4b06` | `6ae4fe7d2f1ab8d0d8c369ed881e210a93c03e55cea3b734da0c1a27768eb04e` | `2026-06-23_tu-aliento-dulce-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

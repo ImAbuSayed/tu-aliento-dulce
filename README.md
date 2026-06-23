@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-dulce/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Tu aliento dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-dulce/) |
+| **Get License** | [Get License For Tu aliento dulce](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-dulce/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `10d1b8678693cbab998cb7ef41f8e22feacf02610f8ced12e7afbbeff17f4b06` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
